@@ -91,3 +91,6 @@ Once the application is running, you can perform the following actions:
   * Users would be able to go back to menu page and logout.
 ### Tips and Tricks page: ###
   * Check out reliable information to improve your well-being.
+
+
+text
